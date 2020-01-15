@@ -1,8 +1,9 @@
 package com.company.utils;
 
-import com.company.models.SLBoard;
+import com.company.models.SLGame;
 import com.company.models.SLPlayer;
 import com.company.services.MoveGenerator;
+import com.company.services.RuleService;
 
 import java.util.ArrayList;
 

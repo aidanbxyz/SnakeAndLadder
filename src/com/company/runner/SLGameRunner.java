@@ -2,7 +2,7 @@ package com.company.runner;
 
 import com.company.models.SLPlayer;
 import com.company.utils.Logger;
-import com.company.utils.SLGame;
+import com.company.models.SLGame;
 
 import java.util.Optional;
 

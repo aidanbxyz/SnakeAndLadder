@@ -1,4 +1,4 @@
-package com.company.utils;
+package com.company.services;
 
 public interface RuleService {
 

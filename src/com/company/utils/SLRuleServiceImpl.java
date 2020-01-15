@@ -1,8 +1,7 @@
 package com.company.utils;
 
 import com.company.models.SLBoard;
-
-import java.util.ArrayList;
+import com.company.services.RuleService;
 
 public class SLRuleServiceImpl implements RuleService {
 

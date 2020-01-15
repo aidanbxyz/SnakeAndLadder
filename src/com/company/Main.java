@@ -5,7 +5,7 @@ import com.company.models.SLBoard;
 import com.company.models.SLPlayer;
 import com.company.runner.SLGameRunner;
 import com.company.utils.MoveGeneratorImpl;
-import com.company.utils.SLGame;
+import com.company.models.SLGame;
 import com.company.utils.SLGameBuilder;
 import com.company.utils.SLRuleServiceImpl;
 
